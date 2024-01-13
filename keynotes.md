@@ -1,9 +1,3 @@
----
-layout: default
-title: Keynotes
-nav_order: 3
----
-
 # Keynotes
 
 Keynote Speaker | Keynote Abstract 
